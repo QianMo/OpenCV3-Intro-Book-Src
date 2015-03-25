@@ -1,6 +1,7 @@
 《OpenCV3编程入门》书本配套源代码
 ==============================
-<br>&lt;Introduction to OpenCV3 Programming>book Source Code<br>
+####《Introduction to OpenCV3 Programming》Book Source Code<br>
+
 ![](http://img.blog.csdn.net/20150325155409850)  
 <br>本书有OpenCV2、OpenCV3两套独立的书本配套示例程序供选择使用。
 <br>  有4个部分11章，共有95个主线示例程序，为方便大家查阅和学习，总结成如下。
@@ -136,6 +137,8 @@
 		21	用高斯背景建模分离背景
 
 
-[书本勘误&维护博文](http://blog.csdn.net/poem_qianmo/article/details/44416709)
+<br>
+[【书本勘误&维护博文】](http://blog.csdn.net/poem_qianmo/article/details/44416709)
+
 <br>Enjoy~
 
