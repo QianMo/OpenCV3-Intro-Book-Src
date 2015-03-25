@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShowVideoFrame", "ShowVideoFrame\ShowVideoFrame.vcxproj", "{80731AB5-FCE1-4FBC-8C42-ED60A89614D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80731AB5-FCE1-4FBC-8C42-ED60A89614D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{80731AB5-FCE1-4FBC-8C42-ED60A89614D8}.Debug|Win32.Build.0 = Debug|Win32
+		{80731AB5-FCE1-4FBC-8C42-ED60A89614D8}.Release|Win32.ActiveCfg = Release|Win32
+		{80731AB5-FCE1-4FBC-8C42-ED60A89614D8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

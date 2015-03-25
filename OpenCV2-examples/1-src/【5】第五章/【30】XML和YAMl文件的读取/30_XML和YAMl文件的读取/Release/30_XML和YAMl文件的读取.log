@@ -1,0 +1,24 @@
+﻿生成启动时间为 2014/11/29 星期六 15:35:08。
+     1>项目“G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\30_XML和YAMl文件的读取\30_XML和YAMl文件的读取.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\30_XML和YAMl文件的读取.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 30_Read_XML_and_YAML_File.cpp
+         30_Read_XML_and_YAML_File.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\30_XML和YAMl文件的读取.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect249.lib opencv_ts249.lib opencv_video249.lib opencv_nonfree249.lib opencv_ocl249.lib opencv_photo249.lib opencv_stitching249.lib opencv_superres249.lib opencv_videostab249.lib opencv_calib3d249.lib opencv_contrib249.lib opencv_core249.lib opencv_features2d249.lib opencv_flann249.lib opencv_gpu249.lib opencv_highgui249.lib opencv_imgproc249.lib opencv_legacy249.lib opencv_ml249.lib freetype250.lib glew32.lib glfw3.lib libAudio.lib libBox2D.lib libchipmunk.lib libcocos2d.lib libCocosBuilder.lib libCocosStudio.lib libcurl_imp.lib libExtensions.lib libGUI.lib libiconv.lib libjpeg.lib libLocalStorage.lib libNetwork.lib libpng.lib libSpine.lib libtiff.lib libwebp.lib libzlib.lib websockets.lib freetype244MT.lib dxerr.lib dxguid.lib d3d9.lib d3dx9.lib dinput8.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\30_XML和YAMl文件的读取.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\30_XML和YAMl文件的读取.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\30_XML和YAMl文件的读取.lib" /MACHINE:X86 Release\30_Read_XML_and_YAML_File.obj
+         正在生成代码
+         已完成代码的生成
+         30_XML和YAMl文件的读取.vcxproj -> G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\30_XML和YAMl文件的读取.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\Release\30_XML和YAMl文件的读取.exe.manifest" /manifest "Release\30_XML和YAMl文件的读取.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\30_XML和YAMl文件的读取.unsuccessfulbuild”。
+         正在对“Release\30_XML和YAMl文件的读取.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【5】第五章\【30】XML和YAMl文件的读取\30_XML和YAMl文件的读取\30_XML和YAMl文件的读取.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.92

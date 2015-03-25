@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "前后背景分离", "前后背景分离\前后背景分离.vcxproj", "{E2230AFF-F373-4968-A19F-26E58B0D78FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2230AFF-F373-4968-A19F-26E58B0D78FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2230AFF-F373-4968-A19F-26E58B0D78FB}.Debug|Win32.Build.0 = Debug|Win32
+		{E2230AFF-F373-4968-A19F-26E58B0D78FB}.Release|Win32.ActiveCfg = Release|Win32
+		{E2230AFF-F373-4968-A19F-26E58B0D78FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

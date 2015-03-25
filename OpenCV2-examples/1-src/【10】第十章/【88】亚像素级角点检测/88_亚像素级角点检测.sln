@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "88_亚像素级角点检测", "88_亚像素级角点检测\88_亚像素级角点检测.vcxproj", "{A9F84432-0BF5-4FEE-99EB-3FB3714766DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9F84432-0BF5-4FEE-99EB-3FB3714766DF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A9F84432-0BF5-4FEE-99EB-3FB3714766DF}.Debug|Win32.Build.0 = Debug|Win32
+		{A9F84432-0BF5-4FEE-99EB-3FB3714766DF}.Release|Win32.ActiveCfg = Release|Win32
+		{A9F84432-0BF5-4FEE-99EB-3FB3714766DF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

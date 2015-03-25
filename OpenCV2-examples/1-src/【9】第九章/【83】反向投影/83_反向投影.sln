@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "83_反向投影", "83_反向投影\83_反向投影.vcxproj", "{1845592E-E791-4C64-8AD7-CEFE9948157C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1845592E-E791-4C64-8AD7-CEFE9948157C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1845592E-E791-4C64-8AD7-CEFE9948157C}.Debug|Win32.Build.0 = Debug|Win32
+		{1845592E-E791-4C64-8AD7-CEFE9948157C}.Release|Win32.ActiveCfg = Release|Win32
+		{1845592E-E791-4C64-8AD7-CEFE9948157C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

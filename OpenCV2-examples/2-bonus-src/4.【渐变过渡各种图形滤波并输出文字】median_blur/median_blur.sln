@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "median_blur", "median_blur\median_blur.vcxproj", "{79B74E08-9FDF-4B9F-B36B-69F1E10E5716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B74E08-9FDF-4B9F-B36B-69F1E10E5716}.Debug|Win32.ActiveCfg = Debug|Win32
+		{79B74E08-9FDF-4B9F-B36B-69F1E10E5716}.Debug|Win32.Build.0 = Debug|Win32
+		{79B74E08-9FDF-4B9F-B36B-69F1E10E5716}.Release|Win32.ActiveCfg = Release|Win32
+		{79B74E08-9FDF-4B9F-B36B-69F1E10E5716}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

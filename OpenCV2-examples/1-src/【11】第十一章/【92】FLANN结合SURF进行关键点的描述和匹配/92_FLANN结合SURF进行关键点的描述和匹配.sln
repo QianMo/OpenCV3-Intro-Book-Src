@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "92_FLANN结合SURF进行关键点的描述和匹配", "92_FLANN结合SURF进行关键点的描述和匹配\92_FLANN结合SURF进行关键点的描述和匹配.vcxproj", "{DC6B6B13-8B14-46B0-8AEF-B77498327BE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC6B6B13-8B14-46B0-8AEF-B77498327BE9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC6B6B13-8B14-46B0-8AEF-B77498327BE9}.Debug|Win32.Build.0 = Debug|Win32
+		{DC6B6B13-8B14-46B0-8AEF-B77498327BE9}.Release|Win32.ActiveCfg = Release|Win32
+		{DC6B6B13-8B14-46B0-8AEF-B77498327BE9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

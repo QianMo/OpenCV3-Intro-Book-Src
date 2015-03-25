@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "37_图像滤波综合示例", "37_图像滤波综合示例\37_图像滤波综合示例.vcxproj", "{43D17B08-13F2-48D1-A720-DBAD7E8EFF6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D17B08-13F2-48D1-A720-DBAD7E8EFF6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{43D17B08-13F2-48D1-A720-DBAD7E8EFF6F}.Debug|Win32.Build.0 = Debug|Win32
+		{43D17B08-13F2-48D1-A720-DBAD7E8EFF6F}.Release|Win32.ActiveCfg = Release|Win32
+		{43D17B08-13F2-48D1-A720-DBAD7E8EFF6F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

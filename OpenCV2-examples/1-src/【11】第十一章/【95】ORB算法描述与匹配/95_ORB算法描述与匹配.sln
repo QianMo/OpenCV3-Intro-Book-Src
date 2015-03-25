@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "95_ORB算法描述与匹配", "95_ORB算法描述与匹配\95_ORB算法描述与匹配.vcxproj", "{68DE8810-3B27-4005-96F1-4315D62AA45D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68DE8810-3B27-4005-96F1-4315D62AA45D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68DE8810-3B27-4005-96F1-4315D62AA45D}.Debug|Win32.Build.0 = Debug|Win32
+		{68DE8810-3B27-4005-96F1-4315D62AA45D}.Release|Win32.ActiveCfg = Release|Win32
+		{68DE8810-3B27-4005-96F1-4315D62AA45D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

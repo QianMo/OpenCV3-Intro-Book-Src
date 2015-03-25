@@ -1,0 +1,22 @@
+﻿生成启动时间为 2014/12/1 星期一 16:49:14。
+     1>项目“G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\20_用OpenCV进行基本绘图\20_用OpenCV进行基本绘图.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\20_用OpenCV进行基本绘图.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 20_DrawImage.cpp
+         20_DrawImage.cpp
+     1>d:\program files (x86)\opencv3.0-beta\opencv\build\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>d:\program files (x86)\opencv3.0-beta\opencv\build\include\opencv2\core\mat.hpp(1413): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\Debug\20_用OpenCV进行基本绘图.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib freetype250.lib glew32.lib glfw3.lib libAudio.lib libBox2D.lib libchipmunk.lib libcocos2d.lib libCocosBuilder.lib libCocosStudio.lib libcurl_imp.lib libExtensions.lib libGUI.lib libiconv.lib libjpeg.lib libLocalStorage.lib libNetwork.lib libpng.lib libSpine.lib libtiff.lib libwebp.lib libzlib.lib websockets.lib freetype244MT.lib dxerr.lib dxguid.lib d3d9.lib d3dx9.lib dinput8.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\20_用OpenCV进行基本绘图.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\Debug\20_用OpenCV进行基本绘图.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\Debug\20_用OpenCV进行基本绘图.lib" /MACHINE:X86 Debug\20_DrawImage.obj
+         20_用OpenCV进行基本绘图.vcxproj -> G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\Debug\20_用OpenCV进行基本绘图.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\Debug\20_用OpenCV进行基本绘图.exe.manifest" /manifest "Debug\20_用OpenCV进行基本绘图.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Debug\20_用OpenCV进行基本绘图.unsuccessfulbuild”。
+         正在对“Debug\20_用OpenCV进行基本绘图.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“G:\Desktop\修订OpenCV\【OpenCV2 Book Project】\【1】书本正篇程序源代码\【4】第四章\【20】用OpenCV进行基本绘图\20_用OpenCV进行基本绘图\20_用OpenCV进行基本绘图.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12

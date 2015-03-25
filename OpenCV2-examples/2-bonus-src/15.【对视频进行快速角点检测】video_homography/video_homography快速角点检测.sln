@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "video_homography快速角点检测", "video_homography快速角点检测\video_homography快速角点检测.vcxproj", "{FB7104A1-6FB0-422D-9D33-4267F379172C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7104A1-6FB0-422D-9D33-4267F379172C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB7104A1-6FB0-422D-9D33-4267F379172C}.Debug|Win32.Build.0 = Debug|Win32
+		{FB7104A1-6FB0-422D-9D33-4267F379172C}.Release|Win32.ActiveCfg = Release|Win32
+		{FB7104A1-6FB0-422D-9D33-4267F379172C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

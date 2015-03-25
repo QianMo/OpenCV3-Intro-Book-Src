@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<OPLandIPLparvo>
+  <colorMode>1</colorMode>
+  <normaliseOutput>1</normaliseOutput>
+  <photoreceptorsLocalAdaptationSensitivity>6.9999998807907104e-001</photoreceptorsLocalAdaptationSensitivity>
+  <photoreceptorsTemporalConstant>5.0000000000000000e-001</photoreceptorsTemporalConstant>
+  <photoreceptorsSpatialConstant>5.2999997138977051e-001</photoreceptorsSpatialConstant>
+  <horizontalCellsGain>0.</horizontalCellsGain>
+  <hcellsTemporalConstant>1.</hcellsTemporalConstant>
+  <hcellsSpatialConstant>7.</hcellsSpatialConstant>
+  <ganglionCellsSensitivity>6.9999998807907104e-001</ganglionCellsSensitivity></OPLandIPLparvo>
+<IPLmagno>
+  <normaliseOutput>1</normaliseOutput>
+  <parasolCells_beta>0.</parasolCells_beta>
+  <parasolCells_tau>0.</parasolCells_tau>
+  <parasolCells_k>7.</parasolCells_k>
+  <amacrinCellsTemporalCutFrequency>1.2000000476837158e+000</amacrinCellsTemporalCutFrequency>
+  <V0CompressionParameter>9.4999998807907104e-001</V0CompressionParameter>
+  <localAdaptintegration_tau>0.</localAdaptintegration_tau>
+  <localAdaptintegration_k>7.</localAdaptintegration_k></IPLmagno>
+</opencv_storage>
