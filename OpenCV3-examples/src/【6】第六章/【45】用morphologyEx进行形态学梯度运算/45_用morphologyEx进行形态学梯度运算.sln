@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45_用morphologyEx进行形态学梯度运算", "45_用morphologyEx进行形态学梯度运算\45_用morphologyEx进行形态学梯度运算.vcxproj", "{2E835804-497E-40A6-B39D-4AA0C6A224F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E835804-497E-40A6-B39D-4AA0C6A224F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E835804-497E-40A6-B39D-4AA0C6A224F4}.Debug|Win32.Build.0 = Debug|Win32
+		{2E835804-497E-40A6-B39D-4AA0C6A224F4}.Release|Win32.ActiveCfg = Release|Win32
+		{2E835804-497E-40A6-B39D-4AA0C6A224F4}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

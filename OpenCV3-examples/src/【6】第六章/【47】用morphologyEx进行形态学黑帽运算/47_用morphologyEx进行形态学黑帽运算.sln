@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "47_用morphologyEx进行形态学黑帽运算", "47_用morphologyEx进行形态学黑帽运算\47_用morphologyEx进行形态学黑帽运算.vcxproj", "{D4CFF7A2-EC9B-459C-A335-501151301183}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4CFF7A2-EC9B-459C-A335-501151301183}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D4CFF7A2-EC9B-459C-A335-501151301183}.Debug|Win32.Build.0 = Debug|Win32
+		{D4CFF7A2-EC9B-459C-A335-501151301183}.Release|Win32.ActiveCfg = Release|Win32
+		{D4CFF7A2-EC9B-459C-A335-501151301183}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

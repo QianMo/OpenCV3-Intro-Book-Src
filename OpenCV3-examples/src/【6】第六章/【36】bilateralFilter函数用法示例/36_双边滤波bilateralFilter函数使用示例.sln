@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36_双边滤波bilateralFilter函数使用示例", "36_双边滤波bilateralFilter函数使用示例\36_双边滤波bilateralFilter函数使用示例.vcxproj", "{BB4698D5-62F2-4862-AED8-56B1DD20AEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4698D5-62F2-4862-AED8-56B1DD20AEBE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BB4698D5-62F2-4862-AED8-56B1DD20AEBE}.Debug|Win32.Build.0 = Debug|Win32
+		{BB4698D5-62F2-4862-AED8-56B1DD20AEBE}.Release|Win32.ActiveCfg = Release|Win32
+		{BB4698D5-62F2-4862-AED8-56B1DD20AEBE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

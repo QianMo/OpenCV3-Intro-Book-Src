@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12_支持向量机之SVM引导", "12_支持向量机之SVM引导\12_支持向量机之SVM引导.vcxproj", "{1ADEFDA1-C7DC-49F9-B0B2-806CE248B951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ADEFDA1-C7DC-49F9-B0B2-806CE248B951}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1ADEFDA1-C7DC-49F9-B0B2-806CE248B951}.Debug|Win32.Build.0 = Debug|Win32
+		{1ADEFDA1-C7DC-49F9-B0B2-806CE248B951}.Release|Win32.ActiveCfg = Release|Win32
+		{1ADEFDA1-C7DC-49F9-B0B2-806CE248B951}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

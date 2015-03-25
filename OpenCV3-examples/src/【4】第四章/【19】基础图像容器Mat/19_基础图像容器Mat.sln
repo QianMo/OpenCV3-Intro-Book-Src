@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19_基础图像容器Mat", "19_基础图像容器Mat\19_基础图像容器Mat.vcxproj", "{E1EACF27-F9EE-4BAB-9664-ABD160CBE57E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1EACF27-F9EE-4BAB-9664-ABD160CBE57E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E1EACF27-F9EE-4BAB-9664-ABD160CBE57E}.Debug|Win32.Build.0 = Debug|Win32
+		{E1EACF27-F9EE-4BAB-9664-ABD160CBE57E}.Release|Win32.ActiveCfg = Release|Win32
+		{E1EACF27-F9EE-4BAB-9664-ABD160CBE57E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

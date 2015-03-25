@@ -1,0 +1,18 @@
+%YAML:1.0
+frameCount: 5
+calibrationDate: "Wed Jun 25 10:42:06 2014\n"
+cameraMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 1000., 0., 320., 0., 1000., 240., 0., 0., 1. ]
+distCoeffs: !!opencv-matrix
+   rows: 5
+   cols: 1
+   dt: d
+   data: [ 1.0000000000000001e-001, 1.0000000000000000e-002,
+       -1.0000000000000000e-003, 0., 0. ]
+features:
+   - { x:41, y:227, lbp:[ 0, 1, 1, 1, 1, 1, 0, 1 ] }
+   - { x:260, y:449, lbp:[ 0, 0, 1, 1, 0, 1, 1, 0 ] }
+   - { x:598, y:78, lbp:[ 0, 1, 0, 0, 1, 0, 1, 0 ] }

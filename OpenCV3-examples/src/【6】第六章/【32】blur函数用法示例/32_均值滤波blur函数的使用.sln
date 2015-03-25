@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "32_均值滤波blur函数的使用", "32_均值滤波blur函数的使用\32_均值滤波blur函数的使用.vcxproj", "{CF7E927A-9F78-4AAA-BD6A-870121566CFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF7E927A-9F78-4AAA-BD6A-870121566CFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CF7E927A-9F78-4AAA-BD6A-870121566CFD}.Debug|Win32.Build.0 = Debug|Win32
+		{CF7E927A-9F78-4AAA-BD6A-870121566CFD}.Release|Win32.ActiveCfg = Release|Win32
+		{CF7E927A-9F78-4AAA-BD6A-870121566CFD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

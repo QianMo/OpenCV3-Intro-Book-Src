@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26_多通道图像混合", "26_多通道图像混合\26_多通道图像混合.vcxproj", "{E3687B52-D8C0-4725-B3FB-9E5E30A7C469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3687B52-D8C0-4725-B3FB-9E5E30A7C469}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E3687B52-D8C0-4725-B3FB-9E5E30A7C469}.Debug|Win32.Build.0 = Debug|Win32
+		{E3687B52-D8C0-4725-B3FB-9E5E30A7C469}.Release|Win32.ActiveCfg = Release|Win32
+		{E3687B52-D8C0-4725-B3FB-9E5E30A7C469}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "51_resize函数用法示例", "51_resize函数用法示例\51_resize函数用法示例.vcxproj", "{9F8F31B7-1A99-4D4D-AC6D-70638861B521}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F8F31B7-1A99-4D4D-AC6D-70638861B521}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9F8F31B7-1A99-4D4D-AC6D-70638861B521}.Debug|Win32.Build.0 = Debug|Win32
+		{9F8F31B7-1A99-4D4D-AC6D-70638861B521}.Release|Win32.ActiveCfg = Release|Win32
+		{9F8F31B7-1A99-4D4D-AC6D-70638861B521}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

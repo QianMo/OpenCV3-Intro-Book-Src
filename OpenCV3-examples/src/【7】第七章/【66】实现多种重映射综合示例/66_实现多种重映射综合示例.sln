@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "66_实现多种重映射综合示例", "66_实现多种重映射综合示例\66_实现多种重映射综合示例.vcxproj", "{F488590C-8249-48DB-AAE3-DDD74DD527D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F488590C-8249-48DB-AAE3-DDD74DD527D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F488590C-8249-48DB-AAE3-DDD74DD527D3}.Debug|Win32.Build.0 = Debug|Win32
+		{F488590C-8249-48DB-AAE3-DDD74DD527D3}.Release|Win32.ActiveCfg = Release|Win32
+		{F488590C-8249-48DB-AAE3-DDD74DD527D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

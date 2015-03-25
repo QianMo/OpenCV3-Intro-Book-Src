@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "73_创建包围轮廓的矩形边界", "73_创建包围轮廓的矩形边界\73_创建包围轮廓的矩形边界.vcxproj", "{DC2DD993-0A20-4CE4-96D3-7839253C84D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC2DD993-0A20-4CE4-96D3-7839253C84D3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DC2DD993-0A20-4CE4-96D3-7839253C84D3}.Debug|Win32.Build.0 = Debug|Win32
+		{DC2DD993-0A20-4CE4-96D3-7839253C84D3}.Release|Win32.ActiveCfg = Release|Win32
+		{DC2DD993-0A20-4CE4-96D3-7839253C84D3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

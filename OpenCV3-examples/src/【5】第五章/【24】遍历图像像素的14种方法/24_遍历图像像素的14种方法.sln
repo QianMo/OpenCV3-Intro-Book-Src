@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24_遍历图像像素的14种方法", "24_遍历图像像素的14种方法\24_遍历图像像素的14种方法.vcxproj", "{1479025A-45CE-4F49-B5C7-D1594E4CDE72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1479025A-45CE-4F49-B5C7-D1594E4CDE72}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1479025A-45CE-4F49-B5C7-D1594E4CDE72}.Debug|Win32.Build.0 = Debug|Win32
+		{1479025A-45CE-4F49-B5C7-D1594E4CDE72}.Release|Win32.ActiveCfg = Release|Win32
+		{1479025A-45CE-4F49-B5C7-D1594E4CDE72}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
