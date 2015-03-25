@@ -136,6 +136,6 @@
 		21	用高斯背景建模分离背景
 
 
-
+[书本勘误&维护博文](http://blog.csdn.net/poem_qianmo/article/details/44416709)
 <br>Enjoy~
 
