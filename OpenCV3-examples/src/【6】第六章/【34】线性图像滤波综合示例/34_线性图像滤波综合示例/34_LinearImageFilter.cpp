@@ -69,9 +69,8 @@ int main(   )
 	//创建窗口
 	namedWindow("【<1>方框滤波】", 1);
 	//创建轨迹条
-	createTrackbar("内核值：", "【<1>方框滤波】",&g_nBoxFilterValue, 40,on_BoxFilter );
-	on_MeanBlur(g_nBoxFilterValue,0);
-	imshow("【<1>方框滤波】", g_dstImage1);
+	createTrackbar("内核值：", "【<1>方框滤波】", &g_nBoxFilterValue, 40, on_BoxFilter);
+	on_BoxFilter(g_nBoxFilterValue, 0);
 	//================================================
 
 	//=================【<2>均值滤波】==================

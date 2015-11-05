@@ -76,9 +76,9 @@ void on_Matching( int, void* )
 	g_srcImage.copyTo( srcImage );
 
 	//【2】初始化用于结果输出的矩阵
-	int resultImage_cols =  g_srcImage.cols - g_templateImage.cols + 1;
 	int resultImage_rows = g_srcImage.rows - g_templateImage.rows + 1;
-	g_resultImage.create( resultImage_cols, resultImage_rows, CV_32FC1 );
+	int resultImage_cols = g_srcImage.cols - g_templateImage.cols + 1;
+	g_resultImage.create(resultImage_rows, resultImage_cols, CV_32FC1);
 
 	//【3】进行匹配和标准化
 	matchTemplate( g_srcImage, g_templateImage, g_resultImage, g_nMatchMethod );

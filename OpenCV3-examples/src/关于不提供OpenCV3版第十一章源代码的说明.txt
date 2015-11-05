@@ -1,0 +1,14 @@
+
+【注1】
+由于OpenCV3架构的更改，因为OpenCV3正式版中已经将feature2D移除，放到了第三方的xfeature2D库中。如果需要这使用这方面的库，还是推荐使用OpenCV2。所以本书OpenCV3版的程序仅包含1-10章，第11章和附赠示例程序请参考OpenCV2版的示例程序源代码。
+
+【注2】
+OpenCV3中第三方库xfeature2D的下载地址如下：
+https://github.com/Itseez/opencv_contrib/tree/master/modules/xfeatures2d
+
+【注3】
+鉴于目前世界范围内用xfeatures2D的人不多，网络上的资料更是少得可怜，就算成功配置，后面遇到新的问题，也很难得到解答。如果还是坚持使用xfeatures2d，除了OpenCV官方的Github，这边还有一份配置的教程，可供参考：
+http://nishantnath.com/2015/10/19/open-cv-3-x-adding-contrib-support-to-default-installation/
+
+
+本书作者，于2015年11月。
