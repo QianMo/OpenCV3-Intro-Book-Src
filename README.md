@@ -1,12 +1,12 @@
 《OpenCV3编程入门》书本配套源代码
 ==============================
-####《Introduction to OpenCV3 Programming》Book Source Code<br>
+#### 《Introduction to OpenCV3 Programming》Book Source Code<br>
 
 ![](http://img.blog.csdn.net/20150325155409850)  
 <br>本书有OpenCV2、OpenCV3两套独立的书本配套示例程序供选择使用。
 <br>  有4个部分11章，共有95个主线示例程序，为方便大家查阅和学习，总结成如下。
-#正文部分源代码
-##第一部分 快速上手OpenCV
+# 正文部分源代码
+## 第一部分 快速上手OpenCV
 		1	OpenCV环境配置的测试用例	1.3.8
 		2	快速上手OpenCV的第一个程序：图像显示	1.4.1
 		3	快速上手OpenCV的第二个程序：图像腐蚀	1.4.2
@@ -25,7 +25,7 @@
 		16	综合示例程序：图像的载入、显示与输出	3.1.9
 		17	为程序界面添加滑动条	3.2.1
 		18	鼠标操作示例	3.3
-##第二部分 初探core组件	
+## 第二部分 初探core组件	
 		19	基础图像容器Mat类的使用	4.1.7
 		20	用OpenCV进行基本绘图	4.3
 		21	操作图像中像素的方法一：用指针访问像素	5.1.5、5.1.6
@@ -38,7 +38,7 @@
 		28	离散傅里叶变换	5.5.8
 		29	XML和YAML文件的写入	5.6.3
 		30	XML和YAML文件的读取	5.6.4、
-##第三部分 掌握imgproc组件	
+## 第三部分 掌握imgproc组件	
 		31	方框滤波：boxFilter函数的使用	6.1.11
 		32	均值滤波：blur函数的使用	6.1.11
 		33	高斯滤波：GaussianBlur函数的使用	6.1.11
@@ -94,7 +94,7 @@
 		83	反向投影	9.4.7
 		84	模板匹配	9.5.3
 		
-##第四部分 深入featrue2d组件	
+## 第四部分 深入featrue2d组件	
 		85	实现Harris角点检测：cornerHarris()函数的使用	10.1.4
 		86	harris角点检测与绘制	10.1.5
 		87	Shi-Tomasi角点检测	10.2.3
@@ -109,7 +109,7 @@
 
 
 
-#额外的附赠程序一览
+# 额外的附赠程序一览
 
 除书本本身的示例程序之外，额外附加了OpenCV2版的21个相较于正文主线的示例代码稍微复杂一些的程序源代码。
 现将附加的21个示例程序列举如下：
@@ -138,7 +138,7 @@
 
 
 <br>
-##[【书本勘误&维护博文】](http://blog.csdn.net/poem_qianmo/article/details/44416709)
+## [【书本勘误&维护博文】](http://blog.csdn.net/poem_qianmo/article/details/44416709)
 
 ![](http://img.blog.csdn.net/20150325202951885)  
 <br>Please Enjoy~
